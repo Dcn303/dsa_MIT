@@ -1,0 +1,1 @@
+Given an array, generate all sub array from the given array.
